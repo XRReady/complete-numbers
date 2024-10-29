@@ -32,11 +32,9 @@ cu * 0 -> 3u + 4uj      # Structure preserved
 
 ## Interactive Implementation
 
-Try it yourself: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/12v_dpk2B_MtNzSKA8Lgf9K2neihOHz-e)
+Try it yourself: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/12v_dpk2B_MtNzSKA8Lgf9K2neihOHz-e?usp=sharing)
 
 The Colab notebook demonstrates the practical implementation of Complete Numbers, allowing you to experiment with the structure and observe how it preserves information through zero multiplication.
-
-> Note: This is a private development version. Public links will be provided upon publication.
 
 ## Repository Structure
 
